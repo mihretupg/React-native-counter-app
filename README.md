@@ -1,2 +1,2 @@
-# React-native-counter-app
+# React-native-app
 Created with CodeSandbox
